@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    background: url(http://1.bp.blogspot.com/-VI281sybgKQ/To7-Bqu6vFI/AAAAAAAACCE/pIxQ2Yb2o3I/s200/polkasoftpink.gif);
+    background-attachment: inherit;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.fam {
+    text-align: center;
+    margin: 90px;
+    line-height: 40px;
+    font-size: larger;
+    font-weight: bolder;
+}
